@@ -1,0 +1,22 @@
+{
+  "wheel_id": 514,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-103",
+  "project": "home-loan-brokers-sunshine-coast-myths-4a8c3fce440cfce61d6f9625",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "home loan brokers sunshine coast myths",
+  "intended_url": "https://aumedia.neocities.org/home-loan-brokers-sunshine-coast-myths-4a8c3fce440cfce61d6f9625/",
+  "tier": "T2",
+  "writeback_nonce": "25050ce290fb29c5",
+  "links": [
+    {
+      "target_url": "http://home-loan-brokers-sunshine-coast-glossary-df09fdf890dea90f6eab9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "home loan brokers sunshine coast glossary",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
